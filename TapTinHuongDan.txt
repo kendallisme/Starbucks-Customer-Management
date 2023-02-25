@@ -1,0 +1,39 @@
+Sinh viên thực hiện 1: Vũ Duy Thông – MSSV: 2021010293
+Sinh viên thực hiện 2: Lâm Hồ Thiên Tống – MSSV: 2021010319
+Mã lớp học phần: 2121112005403
+Tên đề tài: Quản trị cơ sở dữ liệu hệ thống khách hàng thân thiết
+
+
+                                             HƯỚNG DẪN SỬ DỤNG CÁC CÔNG CỤ CÀI ĐẶT THÊM
+
+1. Microsoft SQL Server 2014
+Bước 1: Cài đặt ứng dụng Microsoft SQL Server 2014 về máy.
+Bước 2: Mở SQL Server Management Studio -> chọn Connect
+Bước 3: Chọn New Query
+Bước 4: Chọn đường dẫn lưu cơ sở dữ liệu SQL tại ổ C (C:\SQL) và ổ D (D:\SQL) trên máy tính
+Bước 5: Nhập câu lệnh tạo cơ sở dữ liệu.
+Bước 6: Thực thi câu lệnh
+- Chọn tất cả câu lệnh vừa nhập -> chọn Execute (hoặc nhấn phím F5).
+- Kiểm tra kết quả.
+
+
+2. Visual Studio 2017
+Bước 1: Cài đặt ứng dụng Visual Studio 2017 về máy
+Bước 2: Mở ứng dụng Visual Studio trên desktop.
+Bước 2: Tạo 1 dự án mới bằng cách chọn File - New Project trên thanh công cụ hoặc tổ hợp phím Ctrl + Shift + N.
+Bước 3: 
+- Chọn loại project là Window Forms App (.NET framework).
+- Khi chọn loại project chúng ta có thể thiết lập tên dự án hay solution name (solution cho phép quản lý nhiều dự án có liên quan)
+- Và đường dẫn thư mục lưu trữ dự án.
+Bước 4: Viết code cho dự án của bạn
+Bước 5: Biên dịch và chạy debug
+- Dịch và chạy chương trình ở chế độ debug: F5.
+- Dịch và chạy chương trình ở (không debug): Ctrl + F5.
+- Cũng có thể gọi các lệnh này qua menu Debug - Star Debugging hoặc Star Without Debugging
+Bước 6: Thêm project mới vào solution (Nếu có)
+- Click chuột phải vào tên soluion 
+- Chọn Add - New Project
+- Điền các thông tin cần thiết và ấn OK để thêm project mới vào solution.
+Bước 7: Chọn File - Save hoặc tổ hợp phím Ctrl + S để lưu dự án khi hoàn tất.
+
+
